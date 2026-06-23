@@ -1,0 +1,6 @@
+{
+  "name": "أفلام ومسلسلات مجانية",
+  "description": "موقع متكامل للأفلام والمسلسلات بشكل مجاني بالكامل مع لوحة تحكم لإدارة المحتوى والإعلانات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
